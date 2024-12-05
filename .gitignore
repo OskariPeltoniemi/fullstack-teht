@@ -1,0 +1,35 @@
+# Windows-specific
+Application Data/
+Cookies/
+Käynnistä-valikko/
+Local Settings/
+Mallit/
+Omat tiedostot/
+Recent/
+Sendto/
+Tulostinympäristö/
+Verkkoympäristö/
+desktop.ini
+NTUSER.DAT*
+
+# Node.js-related
+node_modules/
+*.log
+
+# MacOS and Linux specific
+.DS_Store
+.cache/
+
+# Kaikki PDF-tiedostot
+*.pdf
+
+# Kuvat ja muut henkilökohtaiset tiedostot
+*.png
+*.jpeg
+*.mp3
+*.exe
+
+# Windows system files
+*.lnk
+*.ini
+AppData/
